@@ -2,4 +2,4 @@
 Mi primer repositorio.
 
 Autor: Diego V.
-Fecha: 1o de febrero.
+Fecha: 10 de febrero.
