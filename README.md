@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
 Autor: Diego V.
-Fecha: 10/02/2022.
+Fecha: 10 de febrero.
